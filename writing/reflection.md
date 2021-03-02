@@ -6,16 +6,16 @@
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
-Please write below this line to address the above-mentioned points. Replace the word, `TODO` with your response.
+Please write below this line to address the above-mentioned points. Replace the word `to do` with your response.
 
 ### Genome Wide Association Studies (GWAS)
 
 1. What kind of research is this method or tool used for?
-   `GWAS is often used to associate specific genetic variations with specific diseases. It is used in medical fields and research to identify genetic connections to disease.`
+   `GWAS is often used to associate specific genetic variations with specific diseases. It is used in medical fields and research to identify genetic connections to disease. Often Genome Wide Association Studies identify common variants for complex diseases (caused by the interaction of multiple genes and environmental factors). In humans complex diseases include cancer and cardiovascular disease. `
 2. How does this method or tool work? What does it do?
-   `Genome Wide Association Studies often involves investigating the genomes from huge datasets of organisms (often humans). Through this analysis, genetic markers connected to disease are discovered, and then used to predict the presence of a disease. GWAS analysis focuses on single nucleotide polymorphisms (SNPs) that occur throughout DNA. SNPs are responsible for genetic variations indicating the biological markers of disease. `
+   `Genome Wide Association Studies often involves investigating the genomes from huge datasets of organisms (often humans). Through this analysis, genetic markers connected to disease are discovered, and then used to predict the presence of a disease. GWAS analysis focuses on single nucleotide polymorphisms (SNPs) that occur throughout DNA. SNPs are responsible for genetic variations indicating the biological markers of disease. GWAS requires millions of single nucleotide polymorphisms to accurately detect relationships.`
 3. Why do you think that this method or tool was necessary to develop?
-   `GWAS is essential to understanding disease evolution and history. Understanding the genetic markers that are connected to disease provide the opportunity to develop effective prevention and treatment strategies.`
+   `GWAS is essential to understanding disease evolution and history. Understanding the genetic markers that are connected to disease provide the opportunity to develop effective prevention and treatment strategies. Genome Wide Association Studies also provide information related to disease transmission and reltion within a population, providing avenues to improve information on communities from a public health perspective. `
 4. What undesirable consequences could result from the misuse of this method or tool? `Hand in hand with GWAS comes statistics, which help to significantly determine a relationship between genetic markers and disease. "False positives" indicating a relationship when there is none are possible if statistics are not done carefully. Undesirable use of Genome Wide Association Studies could provide information allowing individuals to manipulate the genetic markers related to disease and increase the risk of development or transmission among laboratory subjects. It is possible that GWAS could be used to increase disease effects, rather than developing treatments which causes ethical concerns.`
 
 ### Metagenomics
