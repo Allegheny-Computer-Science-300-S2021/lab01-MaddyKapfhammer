@@ -1,6 +1,6 @@
 ## Date: 1 March 2021
 
-## Name: Add Your Name Here
+## Name: Madelyn Kapfhammer
 
 ## Lab01, Instructions
 
@@ -10,27 +10,20 @@ Please write below this line to address the above-mentioned points. Replace the 
 
 ### First Tool
 
- 1. What kind of research is this method or tool used for?
- `TODO`
-
- 2. How does this method or tool work? What does it do?
- `TODO`
-
- 3. Why do you think that this method or tool was necessary to develop?
- `TODO`
-
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
-
+1. What kind of research is this method or tool used for?
+   `TODO`
+2. How does this method or tool work? What does it do?
+   `TODO`
+3. Why do you think that this method or tool was necessary to develop?
+   `TODO`
+4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
 
 ### Second Tool
 
- 1. What kind of research is this method or tool used for?
- `TODO`
-
- 2. How does this method or tool work? What does it do?
- `TODO`
-
- 3. Why do you think that this method or tool was necessary to develop?
- `TODO`
-
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+1. What kind of research is this method or tool used for?
+   `TODO`
+2. How does this method or tool work? What does it do?
+   `TODO`
+3. Why do you think that this method or tool was necessary to develop?
+   `TODO`
+4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
